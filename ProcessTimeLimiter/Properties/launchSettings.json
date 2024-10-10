@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProcessTimeLimiter": {
+      "commandName": "Project",
+      "commandLineArgs": "notepad 20"
+    }
+  }
+}
